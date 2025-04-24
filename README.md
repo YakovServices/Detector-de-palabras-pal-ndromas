@@ -1,2 +1,2 @@
-# Detector-de-palabras-pal-ndromas
-Este es un detector de palabras palindromas hecho en Python3
+# Detector-de-palabras-palíndromas
+Este es un detector de palabras palíndromas hecho en Python3
