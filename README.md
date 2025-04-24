@@ -2,7 +2,7 @@
 Este es un detector de palabras palíndromas hecho en Python3
 
 
-**Manual:**
+## **Manual:**
 
 1. Ejecuta el script:
 ---------------------------------------------------------------
